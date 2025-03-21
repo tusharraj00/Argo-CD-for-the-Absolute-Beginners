@@ -2,6 +2,10 @@
 
 Argo CD for the Absolute Beginners - Hands-On DevOps
 
+# Course link
+
+https://www.udemy.com/course/argo-cd-for-the-absolute-beginners-hands-on-devops/?referralCode=6F9C6F01BACB20AFC775
+
 # What’s in this course?
 
 Argo CD for the Absolute Beginners - Hands-On is a comprehensive course is designed to guide you from foundational Argo CD knowledge to production-level skills.
